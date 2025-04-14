@@ -1,0 +1,1449 @@
+[
+{
+  "name": "DefaultName",
+  "scopes": [],
+  "apiResources": [],
+  "proxies": [],
+    "ecommerce": {
+      "categories": [
+        {
+          "name": "Smartphones",
+          "products": [
+            {
+              "id": "SP1001",
+              "name": "iPhone 14",
+              "brand": "Apple",
+              "price": 999.99,
+              "specs": {
+                "ram": "6GB",
+                "storage": "128GB",
+                "color": "Negro"
+              }
+            },
+            {
+              "id": "SP1002",
+              "name": "Galaxy S23",
+              "brand": "Samsung",
+              "price": 899.99,
+              "specs": {
+                "ram": "8GB",
+                "storage": "256GB",
+                "color": "Blanco"
+              }
+            },
+            {
+              "id": "SP1003",
+              "name": "Pixel 7",
+              "brand": "Google",
+              "price": 599.99,
+              "specs": {
+                "ram": "8GB",
+                "storage": "128GB",
+                "color": "Obsidian"
+              }
+            },
+            {
+              "id": "SP1004",
+              "name": "OnePlus 10",
+              "brand": "OnePlus",
+              "price": 799.99,
+              "specs": {
+                "ram": "12GB",
+                "storage": "256GB",
+                "color": "Verde"
+              }
+            },            
+            {
+                "id": "SP1201",
+                "name": "Moto G Power",
+                "brand": "Motorola",
+                "price": 199.99,
+                "specs": {
+                  "ram": "4GB",
+                  "storage": "64GB",
+                  "color": "Gris"
+                }
+              },
+              {
+                "id": "SP1202",
+                "name": "Nokia 5.4",
+                "brand": "Nokia",
+                "price": 249.99,
+                "specs": {
+                  "ram": "6GB",
+                  "storage": "128GB",
+                  "color": "Azul"
+                }
+              },            
+              {
+                  "id": "SP1101",
+                  "name": "Google Pixel 7",
+                  "brand": "Google",
+                  "price": 599.99,
+                  "specs": {
+                    "ram": "8GB",
+                    "storage": "128GB",
+                    "color": "Obsidian"
+                  }
+                },
+                {
+                  "id": "SP1102",
+                  "name": "OnePlus 10 Pro",
+                  "brand": "OnePlus",
+                  "price": 799.99,
+                  "specs": {
+                    "ram": "12GB",
+                    "storage": "256GB",
+                    "color": "Nebula Blue"
+                  }
+                },
+                {
+                  "id": "SP1103",
+                  "name": "Xiaomi Mi 11",
+                  "brand": "Xiaomi",
+                  "price": 749.99,
+                  "specs": {
+                    "ram": "8GB",
+                    "storage": "128GB",
+                    "color": "Midnight Gray"
+                  }
+                },
+                {
+                  "id": "SP1104",
+                  "name": "Sony Xperia 1 III",
+                  "brand": "Sony",
+                  "price": 1299.99,
+                  "specs": {
+                    "ram": "12GB",
+                    "storage": "256GB",
+                    "color": "Frosted Black"
+                  }
+                },
+                {
+                  "id": "SP1105",
+                  "name": "Huawei P40 Pro",
+                  "brand": "Huawei",
+                  "price": 999.99,
+                  "specs": {
+                    "ram": "8GB",
+                    "storage": "256GB",
+                    "color": "Silver Frost"
+                  }
+                },
+                {
+                  "id": "SP1106",
+                  "name": "Oppo Find X3 Pro",
+                  "brand": "Oppo",
+                  "price": 1149.99,
+                  "specs": {
+                    "ram": "12GB",
+                    "storage": "256GB",
+                    "color": "Gloss Black"
+                  }
+                },
+                {
+                  "id": "SP1107",
+                  "name": "Realme GT 5G",
+                  "brand": "Realme",
+                  "price": 599.99,
+                  "specs": {
+                    "ram": "12GB",
+                    "storage": "256GB",
+                    "color": "Dashing Silver"
+                  }
+                },
+                {
+                  "id": "SP1108",
+                  "name": "Vivo X60 Pro",
+                  "brand": "Vivo",
+                  "price": 799.99,
+                  "specs": {
+                    "ram": "12GB",
+                    "storage": "256GB",
+                    "color": "Midnight Black"
+                  }
+                },
+                {
+                  "id": "SP1109",
+                  "name": "Asus ROG Phone 5",
+                  "brand": "Asus",
+                  "price": 999.99,
+                  "specs": {
+                    "ram": "16GB",
+                    "storage": "512GB",
+                    "color": "Phantom Black"
+                  }
+                },
+                {
+                  "id": "SP1110",
+                  "name": "ZTE Axon 20 5G",
+                  "brand": "ZTE",
+                  "price": 499.99,
+                  "specs": {
+                    "ram": "8GB",
+                    "storage": "128GB",
+                    "color": "Black"
+                  }
+                },
+                {
+                  "id": "SP1111",
+                  "name": "LG Wing",
+                  "brand": "LG",
+                  "price": 999.99,
+                  "specs": {
+                    "ram": "8GB",
+                    "storage": "256GB",
+                    "color": "Illusion Sky"
+                  }
+                },
+                {
+                  "id": "SP1112",
+                  "name": "Nokia XR20",
+                  "brand": "Nokia",
+                  "price": 549.99,
+                  "specs": {
+                    "ram": "6GB",
+                    "storage": "128GB",
+                    "color": "Ultra Blue"
+                  }
+                },
+                {
+                  "id": "SP1113",
+                  "name": "Motorola Edge 20 Pro",
+                  "brand": "Motorola",
+                  "price": 799.99,
+                  "specs": {
+                    "ram": "12GB",
+                    "storage": "256GB",
+                    "color": "Midnight Sky"
+                  }
+                },
+                {
+                  "id": "SP1114",
+                  "name": "Honor 50 Pro",
+                  "brand": "Honor",
+                  "price": 699.99,
+                  "specs": {
+                    "ram": "8GB",
+                    "storage": "256GB",
+                    "color": "Emerald Green"
+                  }
+                },
+                {
+                  "id": "SP1115",
+                  "name": "TCL 20 Pro 5G",
+                  "brand": "TCL",
+                  "price": 499.99,
+                  "specs": {
+                    "ram": "6GB",
+                    "storage": "256GB",
+                    "color": "Moondust Gray"
+                  }
+                },
+                {
+                  "id": "SP1116",
+                  "name": "BlackBerry KEY2",
+                  "brand": "BlackBerry",
+                  "price": 649.99,
+                  "specs": {
+                    "ram": "6GB",
+                    "storage": "128GB",
+                    "color": "Silver"
+                  }
+                },
+                {
+                  "id": "SP1117",
+                  "name": "Alcatel 3X (2021)",
+                  "brand": "Alcatel",
+                  "price": 199.99,
+                  "specs": {
+                    "ram": "4GB",
+                    "storage": "64GB",
+                    "color": "Black"
+                  }
+                },
+                {
+                  "id": "SP1118",
+                  "name": "ZTE Blade 20",
+                  "brand": "ZTE",
+                  "price": 149.99,
+                  "specs": {
+                    "ram": "4GB",
+                    "storage": "64GB",
+                    "color": "Gray"
+                  }
+                },
+                {
+                  "id": "SP1119",
+                  "name": "Oppo A54",
+                  "brand": "Oppo",
+                  "price": 249.99,
+                  "specs": {
+                    "ram": "4GB",
+                    "storage": "128GB",
+                    "color": "Crystal Black"
+                  }
+                },
+                {
+                  "id": "SP1120",
+                  "name": "Vivo Y20",
+                  "brand": "Vivo",
+                  "price": 199.99,
+                  "specs": {
+                    "ram": "4GB",
+                    "storage": "64GB",
+                    "color": "Dawn White"
+                  }
+                },
+                {
+                  "id": "SP1121",
+                  "name": "Realme Narzo 30A",
+                  "brand": "Realme",
+                  "price": 149.99,
+                  "specs": {
+                    "ram": "3GB",
+                    "storage": "32GB",
+                    "color": "Laser Blue"
+                  }
+                },
+                {
+                  "id": "SP1122",
+                  "name": "Xiaomi Redmi Note 10",
+                  "brand": "Xiaomi",
+                  "price": 199.99,
+                  "specs": {
+                    "ram": "4GB",
+                    "storage": "64GB",
+                    "color": "Onyx Gray"
+                  }
+                },
+                {
+                  "id": "SP1123",
+                  "name": "Samsung Galaxy A32",
+                  "brand": "Samsung",
+                  "price": 279.99,
+                  "specs": {
+                    "ram": "6GB",
+                    "storage": "128GB",
+                    "color": "Awesome Black"
+                  }
+                },
+                {
+                  "id": "SP1124",
+                  "name": "Nokia G20",
+                  "brand": "Nokia",
+                  "price": 249.99,
+                  "specs": {
+                    "ram": "4GB",
+                    "storage": "128GB",
+                    "color": "Nordic Blue"
+                  }
+                },
+                {
+                  "id": "SP1125",
+                  "name": "Motorola Moto G Stylus 5G",
+                  "brand": "Motorola",
+                  "price": 399.99,
+                  "specs": {
+                    "ram": "6GB",
+                    "storage": "256GB",
+                    "color": "Twilight Blue"
+                  }
+                },
+                {
+                  "id": "SP1126",
+                  "name": "Honor 30 Lite",
+                  "brand": "Honor",
+                  "price": 299.99,
+                  "specs": {
+                    "ram": "6GB",
+                    "storage": "128GB",
+                    "color": "Magic Night Black"
+                  }
+                },
+                {
+                  "id": "SP1127",
+                  "name": "TCL 10 Pro",
+                  "brand": "TCL",
+                  "price": 449.99,
+                  "specs": {
+                    "ram": "6GB",
+                    "storage": "128GB",
+                    "color": "Forest Mist Green"
+                  }
+                },
+                {
+                  "id": "SP1128",
+                  "name": "BlackBerry KEYone",
+                  "brand": "BlackBerry",
+                  "price": 549.99,
+                  "specs": {
+                    "ram": "4GB",
+                    "storage": "64GB",
+                    "color": "Silver"
+                  }
+                },
+                {
+                  "id": "SP1129",
+                  "name": "Alcatel 1B (2020)",
+                  "brand": "Alcatel",
+                  "price": 99.99,
+                  "specs": {
+                    "ram": "2GB",
+                    "storage": "16GB",
+                    "color": "Black"
+                  }
+                },
+                {
+                  "id": "SP1130",
+                  "name": "ZTE Blade A7",
+                  "brand": "ZTE",
+                  "price": 129.99,
+                  "specs": {
+                    "ram": "3GB",
+                    "storage": "32GB",
+                    "color": "Gray"
+                  }
+                },
+                {
+                  "id": "SP1131",
+                  "name": "Oppo A15",
+                  "brand": "Oppo",
+                  "price": 179.99,
+                  "specs": {
+                    "ram": "3GB",
+                    "storage": "32GB",
+                    "color": "Mystery Blue"
+                  }
+                },
+                {
+                  "id": "SP1132",
+                  "name": "Vivo Y12s",
+                  "brand": "Vivo",
+                  "price": 159.99,
+                  "specs": {
+                    "ram": "3GB",
+                    "storage": "32GB",
+                    "color": "Phantom Black"
+                  }
+                },
+                {
+                  "id": "SP1133",
+                  "name": "Realme C11",
+                  "brand": "Realme",
+                  "price": 129.99,
+                  "specs": {
+                    "ram": "2GB",
+                    "storage": "32GB",
+                    "color": "Rich Green"
+                  }
+                },
+                {
+                  "id": "SP1134",
+                  "name": "Xiaomi Redmi 9A",
+                  "brand": "Xiaomi",
+                  "price": 149.99,
+                  "specs": {
+                    "ram": "2GB",
+                    "storage": "32GB",
+                    "color": "Nature Green"
+                  }
+                },
+                {
+                  "id": "SP1135",
+                  "name": "Samsung Galaxy M12",
+                  "brand": "Samsung",
+                  "price": 199.99,
+                  "specs": {
+                    "ram": "4GB",
+                    "storage": "64GB",
+                    "color": "Black"
+                  }
+                },
+                {
+                  "id": "SP1136",
+                  "name": "Nokia C20",
+                  "brand": "Nokia",
+                  "price": 129.99,
+                  "specs": {
+                    "ram": "2GB",
+                    "storage": "32GB",
+                    "color": "Sand"
+                  }
+                }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "products": [
+            {
+              "id": "LP2001",
+              "name": "XPS 13",
+              "brand": "Dell",
+              "price": 1249.99,
+              "specs": {
+                "ram": "16GB",
+                "storage": "512GB SSD",
+                "processor": "Intel Core i7"
+              }
+            },
+            {
+              "id": "LP2002",
+              "name": "MacBook Air M2",
+              "brand": "Apple",
+              "price": 1299.99,
+              "specs": {
+                "ram": "8GB",
+                "storage": "256GB SSD",
+                "processor": "Apple M2"
+              }
+            },            
+            {
+                "id": "LP2101",
+                "name": "HP Spectre x360",
+                "brand": "HP",
+                "price": 1399.99,
+                "specs": {
+                  "ram": "16GB",
+                  "storage": "512GB SSD",
+                  "processor": "Intel Core i7",
+                  "screen_size": "13.3 pulgadas"
+                }
+              },
+              {
+                "id": "LP2102",
+                "name": "Lenovo ThinkPad X1 Carbon",
+                "brand": "Lenovo",
+                "price": 1599.99,
+                "specs": {
+                  "ram": "16GB",
+                  "storage": "1TB SSD",
+                  "processor": "Intel Core i7",
+                  "screen_size": "14 pulgadas"
+                }
+              },              
+              {
+                "id": "LP2201",
+                "name": "Asus ZenBook 14",
+                "brand": "Asus",
+                "price": 999.99,
+                "specs": {
+                  "ram": "16GB",
+                  "storage": "512GB SSD",
+                  "processor": "AMD Ryzen 7",
+                  "screen_size": "14 inches"
+                }
+              },
+              {
+                "id": "LP2202",
+                "name": "Acer Swift 3",
+                "brand": "Acer",
+                "price": 749.99,
+                "specs": {
+                  "ram": "8GB",
+                  "storage": "256GB SSD",
+                  "processor": "Intel Core i5",
+                  "screen_size": "14 inches"
+                }
+              }              
+          ]
+        },
+        {
+          "name": "Tablets",
+          "products": [
+            {
+              "id": "TB3001",
+              "name": "iPad Pro",
+              "brand": "Apple",
+              "price": 1099.99,
+              "specs": {
+                "ram": "8GB",
+                "storage": "128GB",
+                "screen": "12.9 pulgadas"
+              }
+            },
+            {
+              "id": "TB3002",
+              "name": "Galaxy Tab S8",
+              "brand": "Samsung",
+              "price": 699.99,
+              "specs": {
+                "ram": "8GB",
+                "storage": "128GB",
+                "screen": "11 pulgadas"
+              }
+            },            
+            {
+                "id": "TB3101",
+                "name": "Surface Pro 8",
+                "brand": "Microsoft",
+                "price": 1099.99,
+                "specs": {
+                  "ram": "16GB",
+                  "storage": "256GB SSD",
+                  "screen": "13 pulgadas",
+                  "os": "Windows 11"
+                }
+              },
+              {
+                "id": "TB3102",
+                "name": "Amazon Fire HD 10",
+                "brand": "Amazon",
+                "price": 149.99,
+                "specs": {
+                  "ram": "3GB",
+                  "storage": "32GB",
+                  "screen": "10.1 pulgadas",
+                  "os": "Fire OS"
+                }
+              },
+              {
+                "id": "TB3201",
+                "name": "iPad Mini",
+                "brand": "Apple",
+                "price": 499.99,
+                "specs": {
+                  "ram": "4GB",
+                  "storage": "64GB",
+                  "screen": "8.3 pulgadas"
+                }
+              },
+              {
+                "id": "TB3202",
+                "name": "Galaxy Tab A7",
+                "brand": "Samsung",
+                "price": 229.99,
+                "specs": {
+                  "ram": "3GB",
+                  "storage": "32GB",
+                  "screen": "10.4 pulgadas"
+                }
+              },
+              {
+                "id": "TB3103",
+                "name": "Lenovo Tab P11",
+                "brand": "Lenovo",
+                "price": 299.99,
+                "specs": {
+                  "ram": "4GB",
+                  "storage": "64GB",
+                  "screen": "11 pulgadas",
+                  "os": "Android"
+                }
+              },
+              {
+                "id": "TB3104",
+                "name": "Huawei MatePad Pro",
+                "brand": "Huawei",
+                "price": 499.99,
+                "specs": {
+                  "ram": "8GB",
+                  "storage": "256GB",
+                  "screen": "10.8 pulgadas",
+                  "os": "Android"
+                }
+              },
+              {
+                "id": "TB3200",
+                "name": "Samsung Galaxy Tab S7",
+                "brand": "Samsung",
+                "price": 649.99,
+                "specs": {
+                  "ram": "8GB",
+                  "storage": "128GB",
+                  "screen": "11 pulgadas"
+                }
+              },
+              {
+                "id": "TB3201",
+                "name": "iPad Air",
+                "brand": "Apple",
+                "price": 599.99,
+                "specs": {
+                  "ram": "8GB",
+                  "storage": "64GB",
+                  "screen": "10.9 pulgadas"
+                }
+              },
+              {
+                "id": "TB3202",
+                "name": "Lenovo Tab M10 Plus",
+                "brand": "Lenovo",
+                "price": 249.99,
+                "specs": {
+                  "ram": "4GB",
+                  "storage": "64GB",
+                  "screen": "10.3 pulgadas",
+                  "os": "Android"
+                }
+              },
+              {
+                "id": "TB3200",
+                "name": "Samsung Galaxy Tab S6 Lite",
+                "brand": "Samsung",
+                "price": 349.99,
+                "specs": {
+                  "ram": "4GB",
+                  "storage": "64GB",
+                  "screen": "10.4 pulgadas"
+                }
+              },
+              {
+                "id": "TB3201",
+                "name": "Lenovo Tab P11 Pro",
+                "brand": "Lenovo",
+                "price": 499.99,
+                "specs": {
+                  "ram": "8GB",
+                  "storage": "128GB",
+                  "screen": "11.5 pulgadas",
+                  "os": "Android"
+                }
+              },              
+              {
+                "id": "TB3201",
+                "name": "Lenovo Tab M10",
+                "brand": "Lenovo",
+                "price": 229.99,
+                "specs": {
+                  "ram": "4GB",
+                  "storage": "64GB",
+                  "screen": "10.3 inches",
+                  "os": "Android"
+                }
+              },
+              {
+                "id": "TB3202",
+                "name": "Huawei MatePad T10",
+                "brand": "Huawei",
+                "price": 199.99,
+                "specs": {
+                  "ram": "3GB",
+                  "storage": "32GB",
+                  "screen": "9.7 inches",
+                  "os": "Android"
+                }
+              }
+          ]
+        },
+        {
+          "name": "Televisores",
+          "products": [
+            {
+              "id": "TV4001",
+              "name": "Smart TV 55\" 4K",
+              "brand": "LG",
+              "price": 799.99,
+              "specs": {
+                "screen": "55 pulgadas",
+                "resolution": "4K",
+                "technology": "OLED"
+              }
+            },
+            {
+              "id": "TV4002",
+              "name": "Smart TV 65\" 4K",
+              "brand": "Sony",
+              "price": 999.99,
+              "specs": {
+                "screen": "65 pulgadas",
+                "resolution": "4K",
+                "technology": "LED"
+              }
+            },            
+            {
+                "id": "TV4101",
+                "name": "TCL 50\" Roku TV",
+                "brand": "TCL",
+                "price": 399.99,
+                "specs": {
+                  "screen": "50 pulgadas",
+                  "resolution": "4K",
+                  "technology": "LED"
+                }
+              },
+              {
+                "id": "TV4102",
+                "name": "Vizio 65\" OLED TV",
+                "brand": "Vizio",
+                "price": 1499.99,
+                "specs": {
+                  "screen": "65 pulgadas",
+                  "resolution": "4K",
+                  "technology": "OLED"
+                }
+                },
+                {
+                    "id": "TV4103",
+                    "name": "Samsung 55\" QLED TV",
+                    "brand": "Samsung",
+                    "price": 1199.99,
+                    "specs": {
+                    "screen": "55 pulgadas",
+                    "resolution": "4K",
+                    "technology": "QLED"
+                    }
+                },
+                {
+                    "id": "TV4104",
+                    "name": "LG 65\" NanoCell TV",
+                    "brand": "LG",
+                    "price": 1399.99,
+                    "specs": {
+                    "screen": "65 pulgadas",
+                    "resolution": "4K",
+                    "technology": "NanoCell"
+                    }
+                },
+                {
+                    "id": "TV4105",
+                    "name": "Sony 55\" Bravia XR",
+                    "brand": "Sony",
+                    "price": 1599.99,
+                    "specs": {
+                    "screen": "55 pulgadas",
+                    "resolution": "4K",
+                    "technology": "OLED"
+                    }
+                }
+          ]
+        },
+        {
+          "name": "Auriculares",
+          "products": [
+            {
+              "id": "AU5001",
+              "name": "WH-1000XM5",
+              "brand": "Sony",
+              "price": 349.99,
+              "specs": {
+                "type": "Over-ear",
+                "noise_cancellation": true,
+                "wireless": true
+              }
+            },
+            {
+              "id": "AU5002",
+              "name": "AirPods Pro",
+              "brand": "Apple",
+              "price": 249.99,
+              "specs": {
+                "type": "In-ear",
+                "noise_cancellation": true,
+                "wireless": true
+              }
+            },            
+            {
+                "id": "AU5101",
+                "name": "Bose QuietComfort Earbuds",
+                "brand": "Bose",
+                "price": 279.99,
+                "specs": {
+                  "type": "In-ear",
+                  "noise_cancellation": true,
+                  "wireless": true
+                }
+              },
+              {
+                "id": "AU5102",
+                "name": "Jabra Elite 85t",
+                "brand": "Jabra",
+                "price": 229.99,
+                "specs": {
+                  "type": "In-ear",
+                  "noise_cancellation": true,
+                  "wireless": true
+                }
+              },              
+            {
+                "id": "AU5201",
+                "name": "Sennheiser Momentum",
+                "brand": "Sennheiser",
+                "price": 399.99,
+                "specs": {
+                  "type": "Over-ear",
+                  "noise_cancellation": true,
+                  "wireless": true
+                }
+              },
+              {
+                "id": "AU5202",
+                "name": "Beats Studio3",
+                "brand": "Beats",
+                "price": 349.99,
+                "specs": {
+                  "type": "Over-ear",
+                  "noise_cancellation": true,
+                  "wireless": true
+                }
+              },
+                {
+                    "id": "AU5203",
+                    "name": "Apple AirPods Max",
+                    "brand": "Apple",
+                    "price": 549.99,
+                    "specs": {
+                    "type": "Over-ear",
+                    "noise_cancellation": true,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5204",
+                    "name": "Samsung Galaxy Buds Pro",
+                    "brand": "Samsung",
+                    "price": 199.99,
+                    "specs": {
+                    "type": "In-ear",
+                    "noise_cancellation": true,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5205",
+                    "name": "JBL Tune 750BTNC",
+                    "brand": "JBL",
+                    "price": 199.99,
+                    "specs": {
+                    "type": "Over-ear",
+                    "noise_cancellation": true,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5206",
+                    "name": "Anker Soundcore Life Q30",
+                    "brand": "Anker",
+                    "price": 129.99,
+                    "specs": {
+                    "type": "Over-ear",
+                    "noise_cancellation": true,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5207",
+                    "name": "Sony WH-CH710N",
+                    "brand": "Sony",
+                    "price": 199.99,
+                    "specs": {
+                    "type": "Over-ear",
+                    "noise_cancellation": true,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5208",
+                    "name": "Bose SoundLink II",
+                    "brand": "Bose",
+                    "price": 249.99,
+                    "specs": {
+                    "type": "On-ear",
+                    "noise_cancellation": false,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5209",
+                    "name": "Sennheiser HD 450BT",
+                    "brand": "Sennheiser",
+                    "price": 199.99,
+                    "specs": {
+                    "type": "Over-ear",
+                    "noise_cancellation": true,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5210",
+                    "name": "Jabra Elite 45h",
+                    "brand": "Jabra",
+                    "price": 99.99,
+                    "specs": {
+                    "type": "On-ear",
+                    "noise_cancellation": false,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5211",
+                    "name": "Anker Soundcore Life Q20",
+                    "brand": "Anker",
+                    "price": 89.99,
+                    "specs": {
+                    "type": "Over-ear",
+                    "noise_cancellation": true,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5212",
+                    "name": "Samsung Galaxy Buds Live",
+                    "brand": "Samsung",
+                    "price": 169.99,
+                    "specs": {
+                    "type": "In-ear",
+                    "noise_cancellation": true,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5213",
+                    "name": "JBL Free X",
+                    "brand": "JBL",
+                    "price": 149.99,
+                    "specs": {
+                    "type": "In-ear",
+                    "noise_cancellation": false,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5214",
+                    "name": "Beats Flex",
+                    "brand": "Beats",
+                    "price": 69.99,
+                    "specs": {
+                    "type": "In-ear",
+                    "noise_cancellation": false,
+                    "wireless": true
+                    }
+                },
+                {
+                    "id": "AU5215",
+                    "name": "Anker Soundcore Liberty Air 2",
+                    "brand": "Anker",
+                    "price": 99.99,
+                    "specs": {
+                    "type": "In-ear",
+                    "noise_cancellation": false,
+                    "wireless": true
+                    }
+                }
+          ]
+        },
+        {
+          "name": "Smartwatches",
+          "products": [
+            {
+              "id": "SW6001",
+              "name": "Galaxy Watch 5",
+              "brand": "Samsung",
+              "price": 279.99,
+              "specs": {
+                "straps": "Intercambiables",
+                "water_resistant": true,
+                "features": ["Monitoreo de salud", "GPS"]
+              }
+            },
+            {
+              "id": "SW6002",
+              "name": "Apple Watch Series 8",
+              "brand": "Apple",
+              "price": 399.99,
+              "specs": {
+                "straps": "Intercambiables",
+                "water_resistant": true,
+                "features": ["ECG", "Monitoreo de oxígeno", "GPS"]
+              }
+            },
+            
+            {
+                "id": "SW6101",
+                "name": "Fitbit Versa 3",
+                "brand": "Fitbit",
+                "price": 229.95,
+                "specs": {
+                  "features": ["Monitoreo de ritmo cardíaco", "GPS", "Resistencia al agua"],
+                  "battery_life": "6 días",
+                  "connectivity": ["Bluetooth", "Wi-Fi"]
+                }
+              },
+              {
+                "id": "SW6102",
+                "name": "Garmin Fenix 7",
+                "brand": "Garmin",
+                "price": 699.99,
+                "specs": {
+                  "features": ["Multideporte", "Mapas integrados", "Monitoreo avanzado de actividad"],
+                  "battery_life": "Hasta 14 días",
+                  "connectivity": ["Bluetooth", "Wi-Fi", "ANT+"]
+                }
+              },
+              {
+                "id": "SW6103",
+                "name": "Amazfit GTR 3",
+                "brand": "Amazfit",
+                "price": 199.99,
+                "specs": {
+                  "features": ["Monitoreo de salud", "GPS", "Resistencia al agua"],
+                  "battery_life": "21 días",
+                  "connectivity": ["Bluetooth"]
+                }
+              },
+              {
+                "id": "SW6104",
+                "name": "Huawei Watch GT 3",
+                "brand": "Huawei",
+                "price": 249.99,
+                "specs": {
+                  "features": ["Monitoreo de salud", "GPS", "Resistencia al agua"],
+                  "battery_life": "14 días",
+                  "connectivity": ["Bluetooth"]
+                }
+              },
+              {
+                "id": "SW6105",
+                "name": "Withings Steel HR",
+                "brand": "Withings",
+                "price": 199.95,
+                "specs": {
+                  "features": ["Monitoreo de salud", "Resistencia al agua"],
+                  "battery_life": "25 días",
+                  "connectivity": ["Bluetooth"]
+                }
+              },
+              {
+                "id": "SW6106",
+                "name": "Mobvoi TicWatch E3",
+                "brand": "Mobvoi",
+                "price": 199.99,
+                "specs": {
+                  "features": ["Monitoreo de salud", "GPS", "Wear OS"],
+                  "battery_life": "2 días",
+                  "connectivity": ["Bluetooth", "Wi-Fi"]
+                }
+              },            
+              {
+                  "id": "TV4201",
+                  "name": "Samsung QLED 55",
+                  "brand": "Samsung",
+                  "price": 1199.99,
+                  "specs": {
+                    "screen": "55 inches",
+                    "resolution": "4K",
+                    "technology": "QLED"
+                  }
+                },
+                {
+                  "id": "TV4202",
+                  "name": "Philips Ambilight 50",
+                  "brand": "Philips",
+                  "price": 699.99,
+                  "specs": {
+                    "screen": "50 inches",
+                    "resolution": "4K",
+                    "technology": "LED"
+                  }
+                },                
+            {
+                "id": "SW6201",
+                "name": "Fossil Gen 5",
+                "brand": "Fossil",
+                "price": 295.99,
+                "specs": {
+                  "features": [
+                    "Monitoreo de actividad",
+                    "Notificaciones",
+                    "GPS"
+                  ],
+                  "battery_life": "24 horas",
+                  "connectivity": [
+                    "Bluetooth"
+                  ]
+                }
+              },
+              {
+                "id": "SW6202",
+                "name": "Mobvoi TicWatch Pro",
+                "brand": "Mobvoi",
+                "price": 299.99,
+                "specs": {
+                  "features": [
+                    "Monitoreo de salud",
+                    "Wear OS",
+                    "GPS"
+                  ],
+                  "battery_life": "30 horas",
+                  "connectivity": [
+                    "Bluetooth",
+                    "Wi-Fi"
+                  ]
+                }
+              },
+                {
+                    "id": "SW6203",
+                    "name": "Garmin Forerunner 245",
+                    "brand": "Garmin",
+                    "price": 349.99,
+                    "specs": {
+                    "features": [
+                        "Monitoreo de actividad",
+                        "GPS",
+                        "Música"
+                    ],
+                    "battery_life": "7 días",
+                    "connectivity": [
+                        "Bluetooth",
+                        "ANT+"
+                    ]
+                    }
+                },
+                {
+                    "id": "SW6204",
+                    "name": "Amazfit Bip U Pro",
+                    "brand": "Amazfit",
+                    "price": 69.99,
+                    "specs": {
+                    "features": [
+                        "Monitoreo de salud",
+                        "GPS"
+                    ],
+                    "battery_life": "9 días",
+                    "connectivity": [
+                        "Bluetooth"
+                    ]
+                    }
+                },
+                {
+                    "id": "SW6205",
+                    "name": "Huawei Watch Fit",
+                    "brand": "Huawei",
+                    "price": 129.99,
+                    "specs": {
+                    "features": [
+                        "Monitoreo de salud",
+                        "GPS"
+                    ],
+                    "battery_life": "10 días",
+                    "connectivity": [
+                        "Bluetooth"
+                    ]
+                    }
+                },
+                {
+                    "id": "SW6206",
+                    "name": "Withings ScanWatch",
+                    "brand": "Withings",
+                    "price": 249.95,
+                    "specs": {
+                    "features": [
+                        "Monitoreo de salud",
+                        "ECG"
+                    ],
+                    "battery_life": "30 días",
+                    "connectivity": [
+                        "Bluetooth"
+                    ]
+                    }
+                },
+                {
+                    "id": "SW6207",
+                    "name": "Fitbit Sense",
+                    "brand": "Fitbit",
+                    "price": 329.95,
+                    "specs": {
+                    "features": [
+                        "Monitoreo de salud",
+                        "ECG",
+                        "GPS"
+                    ],
+                    "battery_life": "6 días",
+                    "connectivity": [
+                        "Bluetooth",
+                        "Wi-Fi"
+                    ]
+                    }
+                },
+                {
+                    "id": "SW6208",
+                    "name": "Amazfit GTS 2 Mini",
+                    "brand": "Amazfit",
+                    "price": 99.99,
+                    "specs": {
+                    "features": [
+                        "Monitoreo de salud",
+                        "GPS"
+                    ],
+                    "battery_life": "14 días",
+                    "connectivity": [
+                        "Bluetooth"
+                    ]
+                    }
+                },
+                {
+                    "id": "SW6209",
+                    "name": "Garmin Venu Sq",
+                    "brand": "Garmin",
+                    "price": 199.99,
+                    "specs": {
+                    "features": [
+                        "Monitoreo de salud",
+                        "GPS"
+                    ],
+                    "battery_life": "6 días",
+                    "connectivity": [
+                        "Bluetooth"
+                    ]
+                    }
+                },
+                {
+                    "id": "SW6210",
+                    "name": "Samsung Galaxy Watch Active 2",
+                    "brand": "Samsung",
+                    "price": 249.99,
+                    "specs": {
+                    "features": [
+                        "Monitoreo de salud",
+                        "GPS"
+                    ],
+                    "battery_life": "2 días",
+                    "connectivity": [
+                        "Bluetooth"
+                    ]
+                    }
+                }
+          ]
+        },
+        {
+          "name": "Cámaras",
+          "products": [
+            {
+              "id": "CM7001",
+              "name": "Canon EOS Rebel T7",
+              "brand": "Canon",
+              "price": 449.99,
+              "specs": {
+                "resolution": "24.1MP",
+                "sensor": "APS-C",
+                "video": "1080p"
+              }
+            },
+            {
+              "id": "CM7002",
+              "name": "Nikon D3500",
+              "brand": "Nikon",
+              "price": 499.99,
+              "specs": {
+                "resolution": "24.2MP",
+                "sensor": "APS-C",
+                "video": "1080p"
+              }
+            },
+            
+          {
+            "id": "CM8001",
+            "name": "Sony Alpha a7 III",
+            "brand": "Sony",
+            "price": 1999.99,
+            "specs": {
+              "resolution": "24.2MP",
+              "sensor": "Full-frame",
+              "video": "4K UHD"
+            }
+          },
+          {
+            "id": "CM8002",
+            "name": "Fujifilm X-T4",
+            "brand": "Fujifilm",
+            "price": 1699.99,
+            "specs": {
+              "resolution": "26.1MP",
+              "sensor": "APS-C",
+              "video": "4K UHD"
+            }
+          },
+            {
+                "id": "CM8003",
+                "name": "Panasonic Lumix GH5",
+                "brand": "Panasonic",
+                "price": 1299.99,
+                "specs": {
+                "resolution": "20.3MP",
+                "sensor": "Micro Four Thirds",
+                "video": "4K UHD"
+                }
+            },
+            {
+                "id": "CM8004",
+                "name": "Olympus OM-D E-M1 Mark III",
+                "brand": "Olympus",
+                "price": 1799.99,
+                "specs": {
+                "resolution": "20.4MP",
+                "sensor": "Micro Four Thirds",
+                "video": "4K UHD"
+                }
+            },
+            {
+                "id": "CM8005",
+                "name": "GoPro HERO10 Black",
+                "brand": "GoPro",
+                "price": 399.99,
+                "specs": {
+                "resolution": "23MP",
+                "sensor": "",
+                "video": "5.3K"
+                }
+            },
+            {
+                "id": "CM8006",
+                "name": "DJI Osmo Action 3",
+                "brand": "",
+                "price": 329.99,
+                "specs": {
+                "resolution": "",
+                "sensor": "",
+                "video": ""
+                }
+            },
+            {
+                "id": "CM8007",
+                "name": "Nikon Z50",
+                "brand": "Nikon",
+                "price": 849.99,
+                "specs": {
+                "resolution": "20.9MP",
+                "sensor": "APS-C",
+                "video": "4K UHD"
+                }
+            },
+            {
+                "id": "CM8008",
+                "name": "Canon EOS M50 Mark II",
+                "brand": "Canon",
+                "price": 599.99,
+                "specs": {
+                "resolution": "24.1MP",
+                "sensor": "APS-C",
+                "video": "4K UHD"
+                }
+            },
+            {
+                "id": "CM8009",
+                "name": "Sony ZV-E10",
+                "brand": "Sony",
+                "price": 699.99,
+                "specs": {
+                "resolution": "24.2MP",
+                "sensor": "APS-C",
+                "video": "4K UHD"
+                }
+            },
+            {
+                "id": "CM8010",
+                "name": "Fujifilm X-S10",
+                "brand": "Fujifilm",
+                "price": 999.99,
+                "specs": {
+                "resolution": "26.1MP",
+                "sensor": "APS-C",
+                "video": "4K UHD"
+                }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
