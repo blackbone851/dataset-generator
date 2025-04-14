@@ -1,0 +1,18 @@
+{
+    "Tarjeta de crédito": 20,
+    "Tarjeta de débito": 15,
+    "PSE": 17,
+    "Nequi": 10,
+    "Daviplata": 9,
+    "Efecty": 7,
+    "PayPal": 7,
+    "Mercado Pago": 7,
+    "Transferencia bancaria": 2,
+    "Pago contra reembolso": 1,
+    "Apple Pay": 4,
+    "Google Pay": 4,
+    "Amazon Pay": 2,
+    "Bitcoin": 1,
+    "Pago con cheque": 1,
+    "Pago en efectivo en tienda": 1
+}
