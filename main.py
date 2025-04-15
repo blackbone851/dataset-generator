@@ -19,7 +19,7 @@ years = {key: round(random.uniform(0.01, 0.09), 4) for key in years}
 years[2019] = 0
 
 to_dataframe = []
-for i in range(100000):
+for i in range(50000):
     hour = np.random.randint(0, 24)
     minute = np.random.randint(0, 60)
     second = np.random.randint(0, 60)
@@ -36,10 +36,10 @@ for i in range(100000):
         years_list = {k: v for k, v in years.items() if k <= order_date.year}
         price = products[0]['ecommerce']['categories'][cat]['products'][prod]['price']
         quantity = np.random.randint(1, 5)
-        total = quantity * price
         new_price = price
         for rate in years_list.values():
             new_price *= (1 + rate)
+        total = quantity * new_price
         promotion = random.choices(['Yes', 'No'], weights=[0.2, 0.8], k=1)[0]
         if promotion == 'Yes':
             discount = round(random.uniform(0.05, 0.5), 2)
